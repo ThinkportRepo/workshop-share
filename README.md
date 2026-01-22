@@ -1,4 +1,4 @@
-# 📚 Workshop & Research Bookmarks
+# 📚 Workshop Bookmarks
 
 Dieses Repository enthält alle Links die für den Workshop benötigt werden
 
