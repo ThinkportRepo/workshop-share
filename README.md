@@ -9,13 +9,12 @@ Dieses Repository enthält alle Links die für den Workshop benötigt werden
 Diese Links werden im Rahmen des Labs und der Übungen aktiv verwendet:
 
 - **Databricks Lab Workspace**  
-  [https://adb-7405604730243809.9.azuredatabricks.net//](https://adb-7405617693311519.19.azuredatabricks.net/)
+  [https://adb-7405605930429387.7.azuredatabricks.net/](https://adb-7405605930429387.7.azuredatabricks.net/)
 
 - **Miro Board – kollaborative Planung / Architektur**  
   https://miro.com/app/board/uXjVI01YdrU=/?share_link_id=783107602137
 
-
-- DingsBums: #GcPyx2iH@IZ3M9
+- Start: QS@)VdQNluwTiCY[
 
 ---
 
